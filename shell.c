@@ -134,7 +134,7 @@ int BuiltinCommand(struct Command *command){
 
 void ExecuteShell(){
 	struct passwd *pwd;
-    char pathname[1024];
+    	char pathname[1024];
 	int history_num;
 	char *history[1024];
 	int background=0;
