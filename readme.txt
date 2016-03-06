@@ -8,10 +8,10 @@ Functions for fun:
 Enter "about", you will get the simple information of the shell.
 Enter "exit", you will logout from the shell, if you enter into the shell again through itself, exit twice, please.
 
+Some functions such as "up and down arrow" are not included. I will upload a new version ASAP.
 
-Required and Optional Functions: 
+Main Functions: 
 
-All requirements except for "up and down arrow" function are fulfilled:
 1) When a command is launched in the background using operator , the shell will print immediately the pid of the process corresponding to the last sub-command, and after you press "ENTER", the message that the pid of the process finished, the finish message won't appear unless the process is really finished.
 
 For example:
