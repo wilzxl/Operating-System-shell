@@ -1,5 +1,5 @@
 Project Name: Operating System-Shell
-Author: Xianlong Zhang, Chenghao Liu
+Author: Xianlong Zhang
 Text Applcation: Sublime Text2
 Finished on MAC OS
 
